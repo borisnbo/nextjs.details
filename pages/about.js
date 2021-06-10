@@ -2,7 +2,7 @@ export default function About(){
 
     return (
         <div>
-			<h1>About Me ???</h1>
+			<h1>About Me :) Magicien</h1>
             <div>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
